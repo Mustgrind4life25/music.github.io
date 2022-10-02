@@ -1,0 +1,44 @@
+<mj-raw>
+  <!--logo--> 
+</mj-raw>
+	<mj-wrapper css-class="footer" padding="0 40px">
+		     <mj-section padding="0">
+		         <mj-group>
+		             <mj-column padding="0">
+		                 <mj-image padding="0" border-radius="50%" width="20px" height="27px" src="https://i.pinimg.com/originals/73/ff/08/73ff08e18d252fec55d791fa97ab9e50.jpg" alt="facebook" />
+		             </mj-column>
+
+		             <mj-column padding="0">
+		                <mj-image padding="0" border-radius="50%" width="20px" height="27px" src="https://i.pinimg.com/originals/cd/da/26/cdda26fe0f0ef1638c394ead911ec6ad.jpg" alt="instagram" /> 
+		             </mj-column>
+
+		             <mj-column padding="0">
+		                 <mj-image padding="0" border-radius="50%" width="20px" height="27px" src="https://i.pinimg.com/originals/5b/73/45/5b73459960abeab3bd7be40fdc2fd6c3.jpg"/ alt="twitter"> 
+		             </mj-column>
+
+		             <mj-column padding="0">
+		                 <mj-image padding="0" border-radius="50%" width="20px" height="27px" src="https://i.pinimg.com/736x/f2/9c/d6/f29cd60aaa2f5326cc13d8b4906288ab.jpg"/ alt="youtube"> 
+		             </mj-column>
+
+		             <mj-column padding="0">
+		                 <mj-image padding="0" border-radius="50%" width="20px" height="27px" src="https://s.widget-club.com/samples/SkKKnH4BdhhNhbwYwAUv8OzzsT23/B59FQXljdTYPxaG0NbUl/6521FB1B-E7A9-40C8-8A24-730B04E3AFE5.jpg?q=70"/ alt="linkedin"> 
+		             </mj-column>
+		         </mj-group>
+		     </mj-section>
+
+		     <mj-section padding="20px 0 0">
+		         <mj-column padding="0">
+		             <mj-text font-size="10px" align="center">
+		                &copy; Music Mania, 151 O'Connor Streetm Ground floor, Ottawa ON, K2P 2L8 
+		             </mj-text>
+		         </mj-column>
+		     </mj-section>
+
+		     <mj-section padding="0 0 60px">
+		         <mj-column padding="0">
+		             <mj-text font-size="10px" align="center">
+		                <a href="#" class="footer-links">Unsubscribe</a> | <a href="#" class="footer-links">Manage email preferences</a>
+		             </mj-text>
+		         </mj-column>
+		     </mj-section>
+	</mj-wrapper>

@@ -1,0 +1,8 @@
+<mj-raw>
+	<!--logo--> 
+</mj-raw>
+<mj-section css-class="header section-padding" background-color="#000">
+	<mj-column>
+	    <mj-image border="2px solid #fff" align="left" width="140px" src="https://cdn.dribbble.com/users/74249/screenshots/1820299/bitzik-logo.jpg" href="https://www.youtube.com/watch?v=rAbZdOvisb8"/>
+	</mj-column>
+</mj-section>
